@@ -40,8 +40,6 @@
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
   <h2> 🔥 My Tech Stacks! </h2><br>
-<br>
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,php,tailwind,qt,androidstudio,atom,aws,bootstrap,c,cs,cpp,css,django,docker,dotnet,eclipse,express,figma,firebase,flutter,git,github,githubactions,gitlab,html,java,js,jquery,kotlin,md,mongodb,mysql,nginx,ps,rust,electron,postgres,powershell,py,pytorch,redux,regex,sass,sqlite,stackoverflow,svg,tensorflow,vercel,visualstudio,vite,vscode,webpack,wordpress&perline=14)
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
