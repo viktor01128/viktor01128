@@ -1,0 +1,1 @@
+<video autoplay="" muted="" loop="" class="rotate-180 absolute top-[-340px] left-0 w-full h-full object-cover -z-20"><source src="https://portfolio-seven-kappa-43.vercel.app/videos/blackhole.webm" type="video/webm"></video>
