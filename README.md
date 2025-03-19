@@ -44,7 +44,7 @@
 <br>
 
 
-![My Skills](https://skillicons.dev/icons?i=html,js,ts,php,wordpress,laravel,nodejs,express,react,webpack,redux,nextjs,vue,angular,java,androidstudio,flutter,css,sass,bootstrap,c,cs,cpp,django,dotnet,eclipse,firebase,github,gitlab,jquery,kotlin,linkedin,mongodb,postgres,mysql,sqlite,nginx,rust,electron,qt,py,pytorch,regex,tailwind,tensorflow,unity,vercel,visualstudio,vscode,powershell,webflow&perline=15)
+![My Skills](https://skillicons.dev/icons?i=html,js,ts,php,wordpress,laravel,nodejs,express,react,webpack,redux,nextjs,vue,angular,java,androidstudio,flutter,css,sass,bootstrap,c,cs,cpp,django,dotnet,eclipse,firebase,github,gitlab,jquery,kotlin,linkedin,mongodb,postgres,mysql,sqlite,nginx,rust,electron,qt,py,pytorch,regex,tailwind,tensorflow,unity,vercel,visualstudio,vscode,powershell&perline=10)
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
