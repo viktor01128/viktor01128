@@ -59,7 +59,7 @@
 </p>
   <div>
     <a href="https://github.com/viktor01128">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=viktok01128&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=viktor01128&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
     </a>
   </div>
   <br>
